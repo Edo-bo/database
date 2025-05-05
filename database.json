@@ -1,7 +1,7 @@
 [
   {
     "nomor": "6285648225926",
-    "status": "aktif"
+    "status": "nonaktif"
   },
   {
     "nomor": "6283897953159",
@@ -14,5 +14,9 @@
   {
     "nomor": "6285955201695",
     "status": "nonaktif"
+  },
+  {
+    "nomor": "6287873390010",
+    "status": "aktif"
   }
 ]
